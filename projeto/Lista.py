@@ -1,4 +1,4 @@
-from No import No
+from projeto.No import No
 
 
 class Lista:

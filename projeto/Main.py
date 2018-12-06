@@ -1,4 +1,4 @@
-from Lista import Lista
+from projeto.Lista import Lista
 from random import randint
 
 lista = Lista()
